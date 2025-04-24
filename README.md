@@ -17,9 +17,9 @@
 - 🚀 Explore all my work in my [Projects Repository](https://github.com/janabeshir6/Projects)  
 
 ## 🌐 Check Out My Portfolio  
-- 🔗 [My Portfolio Link Here](https://sites.google.com/d/1mfuT0bZHnEja-z43AQh341FSV-5eaO9u/p/105vn4H2i-jo9A7nZPui-cRn3-L_OtYqP/edit)  
+- 🔗 [https://sites.google.com/view/janakhaledportfolio/home](https://sites.google.com/view/janakhaledportfolio/home)  
 
 ## 📬 Connect With Me  
-- 📧 Email: [Your Email Here](mailto:jana.khaledd1@gmail.com)  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jana-khaled/)  
+- 📧 Email: [janakhaledd1@gmail.com](mailto:jana.khaledd1@gmail.com)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/jana-khaled/](https://www.linkedin.com/in/jana-khaled/)  
 
